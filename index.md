@@ -4,7 +4,7 @@
 
 [1.3. Tipus de llenguatges de programació.](Tipus.md "1.3")
 
-1.4. Paradigmes de programació.
+[1.4. Paradigmes de programació.](Paradigmes.md "1.4")
 
 1.5. Característiques dels llenguatges més difosos.
 
