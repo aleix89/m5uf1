@@ -48,6 +48,8 @@ tipus abstractes de dades, on el programador pot definir un nou tipus de dades i
 les seves possibles operacions.
 
 **1.5.2 Característiques de la programació orientada a objectes**
+l'armand es molt tonto
+
 
 
 
